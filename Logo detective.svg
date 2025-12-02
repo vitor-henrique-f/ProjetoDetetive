@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 793.70081 1122.5197"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="inomeado.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="354.9676"
+     inkscape:cy="487.90368"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g36" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g36"
+       transform="rotate(45,173.8315,561.5663)">
+      <g
+         id="g46"
+         transform="translate(-22.627417,-8.4852815)">
+        <g
+           id="g45">
+          <g
+             id="g44">
+            <g
+               id="g43">
+              <g
+                 id="g42">
+                <g
+                   id="g31"
+                   transform="matrix(0.98659557,-0.98659557,0.98659557,0.98659557,-684.7349,310.11033)">
+                  <g
+                     id="g30">
+                    <g
+                       id="g29">
+                      <g
+                         id="g28">
+                        <g
+                           id="g27">
+                          <rect
+                             style="fill:#000080;fill-opacity:1;stroke-width:3.27387;stroke-linejoin:bevel;stroke-dashoffset:3.77953"
+                             id="rect12"
+                             width="27.795725"
+                             height="156.77287"
+                             x="109.66522"
+                             y="696.62756"
+                             ry="9.9607916"
+                             rx="9.9607916"
+                             transform="rotate(-30)" />
+                          <circle
+                             style="fill:#cccccc;fill-opacity:1;stroke:#000080;stroke-width:13.3637;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:3.77953;stroke-opacity:1"
+                             id="circle12"
+                             cx="123.56308"
+                             cy="626.18811"
+                             r="75.784805"
+                             transform="rotate(-30)" />
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                   id="g41"
+                   transform="matrix(0.98659555,0.98659555,-0.98659555,0.98659555,798.77309,-430.56458)">
+                  <g
+                     id="g40">
+                    <g
+                       id="g39">
+                      <g
+                         id="g38">
+                        <g
+                           id="g37">
+                          <rect
+                             style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:17.1331;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:3.77953;stroke-opacity:1"
+                             id="rect19"
+                             width="51.383373"
+                             height="232.80737"
+                             x="-329.5267"
+                             y="480.37814"
+                             rx="8.2422104"
+                             ry="8.2422104"
+                             transform="rotate(-45)" />
+                          <rect
+                             style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:17.5363;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:3.77953;stroke-opacity:1"
+                             id="rect20"
+                             width="101.60558"
+                             height="51.607826"
+                             x="-354.63797"
+                             y="439.81403"
+                             transform="rotate(-45)" />
+                          <rect
+                             style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:17.5484;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:3.77953;stroke-opacity:1"
+                             id="rect21"
+                             width="29.379263"
+                             height="15.727831"
+                             x="-486.9519"
+                             y="271.22028"
+                             transform="matrix(0.2329449,-0.97248994,0.95890019,0.2837436,0,0)" />
+                          <rect
+                             style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:17.5484;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:3.77953;stroke-opacity:1"
+                             id="rect22"
+                             width="29.379263"
+                             height="15.727831"
+                             x="-77.106308"
+                             y="589.46021"
+                             transform="matrix(0.97248994,-0.2329449,0.2837436,0.95890019,0,0)" />
+                          <ellipse
+                             style="fill:#cccccc;fill-opacity:1;stroke:#000080;stroke-width:2.99963;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:3.77953;stroke-opacity:1"
+                             id="path22"
+                             cx="-303.83521"
+                             cy="438.8187"
+                             rx="49.347839"
+                             ry="20.108521"
+                             transform="rotate(-45)" />
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
